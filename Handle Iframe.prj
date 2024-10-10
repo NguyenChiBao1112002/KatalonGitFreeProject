@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>KatalonGitFreeProject</name>
+   <name>Handle Iframe</name>
    <tag></tag>
-   <UUID>16798415-87e1-41ed-b315-f9f95414ed11</UUID>
-   <createdEdition>FREE</createdEdition>
+   <UUID>39abeef0-01a2-4250-a49d-b7466aa73365</UUID>
+   <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>9.7.2</createdVersion>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\BaoNguyen\Katalon Studio\Handle Iframe\Handle Iframe.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -30,5 +31,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>
